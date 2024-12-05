@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.sectionTwo {
+    background-color: rgb(46, 45, 45);
+    width: 400px;
+    height: 250px;
+    margin: 20px auto;
+}
+
+.sectionOne {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    font-size: 20px;
+}
+
+.input {
+    width: 270px;
+    height: 30px;
+    border-radius: 10px;
+    outline: none;
+    font-size: 20px;
+}
+
+.searchBtn {
+    width: 80px;
+    border-radius: 10px;
+    
+}
