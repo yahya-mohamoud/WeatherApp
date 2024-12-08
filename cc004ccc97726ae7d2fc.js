@@ -1,5 +1,5 @@
+import './styles.css'
 document.addEventListener('DOMContentLoaded', () => {
-
   const container = document.querySelector(".container")
   const searchBtn = document.querySelector(".searchBtn")
   const input = document.querySelector(".input")
